@@ -11,6 +11,6 @@ root_block_device {
 
 }
   tags = {
-    Name = "HelloWorld"
+    Name = "Manzi"
   }
 }
